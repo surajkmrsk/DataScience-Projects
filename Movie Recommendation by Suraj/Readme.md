@@ -1,11 +1,11 @@
-***Movie Recommendation system***
+-***Movie Recommendation system***
 
 We now live in what some call the “era of abundance”. For any given product, there are sometimes thousands of options to choose from. Think of the examples above: streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like.
 The easiest and simplest way to do this is to recommend the most popular items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems.
 From a business standpoint, the more relevant products a user finds on the platform, the higher their engagement. This often results in increased revenue for the platform itself. Various sources say that as much as 35–40% of tech giants’ revenue comes from recommendations alone.
 Now that we understand the importance of recommender systems, let’s have a look at types of recommendation systems, then build our own with open-sourced data!
 
-**Types of Recommender Systems**
+-**Types of Recommender Systems**
 Machine learning algorithms in recommender systems typically fit into two categories: content-based systems and collaborative filtering systems. Modern recommender systems combine both approaches.
 Let’s have a look at how they work using movie recommendation systems as a base.
 A) **Content-Based Movie Recommendation Systems**
